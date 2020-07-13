@@ -8,11 +8,11 @@ I'm an engineer currently working on all things Mobile at @SlackHQ
 
 ## Past Experience done
 
-I worked on and led the following teams at @Venmo:
+I worked on and led the following teams at [@Venmo](https://github.com/venmo):
 * [Android - Venmo](https://play.google.com/store/apps/details?id=com.venmo&hl=en_US)
 * [Venmo.com](https://venmo.com/)
 
-and prior to *that*, I worked at @PayPal as a mobile Engineer on the following Projects:
+I worked on multiple projects at [@PayPal](https://github.com/paypal):
 * [Android -  PayPal for Business](https://play.google.com/store/apps/details?id=com.paypal.merchant.client&hl=en_US)
 * [Android -  PayPal Here](https://play.google.com/store/apps/details?id=com.paypal.here&hl=en_US)
 
