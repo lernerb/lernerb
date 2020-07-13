@@ -4,11 +4,11 @@
 
 ## What I do
 
-I'm an engineer currently working on all things Mobile at @SlackHQ
+I'm an engineer currently working on all things Mobile at @SlackHQ, with prior management experience leading high-impact & high-performing teams in the mobile & web domain.
 
-## Past Experience done
+## Past Experience 
 
-I worked on and led the following teams at [@Venmo](https://github.com/venmo):
+I led the following teams at [@Venmo](https://github.com/venmo):
 * [Android - Venmo](https://play.google.com/store/apps/details?id=com.venmo&hl=en_US)
 * [Venmo.com](https://venmo.com/)
 
