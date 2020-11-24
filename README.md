@@ -1,6 +1,4 @@
-<img align="right" width="400" height="400" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80">
-
-# Hi, I'm Brandon Lerner :green_heart: 
+# Hi, I'm Brandon Lerner
 
 ## What I do
 
