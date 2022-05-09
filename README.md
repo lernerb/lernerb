@@ -2,7 +2,7 @@
 
 ## What I do
 
-I'm an engineer currently working on all things Mobile at @SlackHQ, with prior management experience leading high-impact & high-performing teams in the mobile & web domain.
+Prior management experience leading high-impact & high-performing teams in the mobile & web domains.
 
 ## Past Experience 
 
